@@ -17,5 +17,5 @@ Documenting my learning steps helps me to see real progress over time, even if t
 
 ### current project
 
-I keep all my small steps, scripts and notes in my **homelab** repository.  
+I keep all my scripts and notes in my **homelab** repository.  
 It is not perfect but this repo is about learning, not pretending.
