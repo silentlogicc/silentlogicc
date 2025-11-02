@@ -4,9 +4,6 @@ I’m Arne, currently in my apprenticeship as an IT System Engineer (Fachinforma
 My main area in the apprenticeship is networking, but in my homelab I also enjoy exploring small scripting ideas and automation on the side.  
 Documenting my learning steps helps me to see real progress over time, even if the steps are small.
 
-Right now I focus on small scripts, automation ideas and first Docker experiments.  
-This gets better week by week and that’s the whole point of this journey.
-
 ---
 
 ### technologies I am learning right now
@@ -21,4 +18,4 @@ This gets better week by week and that’s the whole point of this journey.
 ### current project
 
 I keep all my small steps, scripts and notes in my **homelab** repository.  
-It is not perfect — this repo is about learning, not pretending.
+It is not perfect but this repo is about learning, not pretending.
