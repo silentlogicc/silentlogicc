@@ -2,7 +2,6 @@
 
 I’m Arne, currently in my apprenticeship as an IT System Engineer (Fachinformatiker für Systemintegration).  
 My main area in the apprenticeship is networking, but in my homelab I also enjoy exploring small scripting ideas and automation on the side.  
-Documenting my learning steps helps me to see real progress over time, even if the steps are small.
 
 ---
 
@@ -17,5 +16,4 @@ Documenting my learning steps helps me to see real progress over time, even if t
 
 ### current project
 
-I keep all my scripts and notes in my **homelab** repository.  
-It is not perfect but this repo is about learning, not pretending.
+I keep all my scripts and notes in my **homelab** repository.
