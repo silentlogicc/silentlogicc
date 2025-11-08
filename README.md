@@ -3,6 +3,8 @@
 I’m Arne, currently in my apprenticeship as an IT System Engineer (Fachinformatiker für Systemintegration).  
 My main area in the apprenticeship is networking, but in my homelab I also enjoy exploring small scripting ideas and automation on the side.  
 
+Right now I often generate helper scripts with AI to study patterns, see how they behave, and adjust them step by step. That way I learn how everything connects and I slowly build my own personal toolbox for daily workflow tasks.
+
 ---
 
 ### technologies I am learning right now
