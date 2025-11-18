@@ -13,7 +13,7 @@ Right now I often generate helper scripts with AI to study patterns, see how the
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Proxmox](https://raw.githubusercontent.com/proxmox/pve-docs/master/images/proxmox_logo.png)
+![Proxmox](https://raw.githubusercontent.com/proxmox/pve-docs/master/images/proxmox_logo_white.png)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
 
