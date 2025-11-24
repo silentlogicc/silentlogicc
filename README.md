@@ -1,4 +1,4 @@
-### Hi there 🦊
+## Hi there 🦊
 
 I’m Arne, currently in my apprenticeship as an IT System Engineer (Fachinformatiker für Systemintegration).  
 My main area in the apprenticeship is networking, but in my homelab I also enjoy exploring small scripting ideas and automation on the side.  
